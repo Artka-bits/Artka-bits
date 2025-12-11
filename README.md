@@ -2,7 +2,7 @@
 
 <p>Welcome to my GitHub profile.</p>
 
-<h2>About Me</h2>
+<h2>About</h2>
 <p>I am a web developer. I love learning new technologies and collaborating on open source projects.</p>
 
 <h2>Technologies & Tools</h2>
@@ -13,12 +13,12 @@
   <li>Git & GitHub</li>
 </ul>
 
-<h2>GitHub Stats</h2>
+<!-- <h2>GitHub Stats</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Artka-bits&show_icons=true&theme=default" alt="stats"/>
-</p>
+</p> -->
 
-<h2>Contact</h2>
+<!-- <h2>Contact</h2>
 <p>
   You can reach me at: <a href="mailto:tucorreo@example.com">tucorreo@example.com</a>
-</p>
+</p> -->
